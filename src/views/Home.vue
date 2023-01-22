@@ -1,9 +1,10 @@
+/* eslint-disable */
 <template>
         <!-- navbar -->
         <nav class = "navbar navbar-expand-lg navbar-light bg-white py-4 fixed-top">
         <div class = "container">
             <a class = "navbar-brand d-flex justify-content-between align-items-center order-lg-0" href = "index.html">
-                <img src = "src/assets/images/shopping-bag-icon.png" alt = "site icon">
+                <img src = "../assets/images/shopping-bag-icon.png" alt = "site icon">
                 <span class = "text-uppercase fw-lighter ms-2">Attire</span>
             </a>
 
@@ -93,7 +94,7 @@
                 <div class = "collection-list mt-4 row gx-0 gy-3">
                     <div class = "col-md-6 col-lg-4 col-xl-3 p-2 best">
                         <div class = "collection-img position-relative">
-                            <img src = "src/assets/images/c_formal_gray_shirt.png" class = "w-100">
+                            <img src = "../assets/images/c_formal_gray_shirt.png" class = "w-100">
                             <span class = "position-absolute bg-primary text-white d-flex align-items-center justify-content-center">sale</span>
                         </div>
                         <div class = "text-center">
@@ -111,7 +112,7 @@
 
                     <div class = "col-md-6 col-lg-4 col-xl-3 p-2 feat">
                         <div class = "collection-img position-relative">
-                            <img src = "src/assets/images/c_pant_girl.png" class = "w-100">
+                            <img src = "../assets/images/c_pant_girl.png" class = "w-100">
                             <span class = "position-absolute bg-primary text-white d-flex align-items-center justify-content-center">sale</span>
                         </div>
                         <div class = "text-center">
@@ -129,7 +130,7 @@
 
                     <div class = "col-md-6 col-lg-4 col-xl-3 p-2 new">
                         <div class = "collection-img position-relative">
-                            <img src = "src/assets/images/c_polo-shirt.png" class = "w-100">
+                            <img src = "../assets/images/c_polo-shirt.png" class = "w-100">
                             <span class = "position-absolute bg-primary text-white d-flex align-items-center justify-content-center">sale</span>
                         </div>
                         <div class = "text-center">
@@ -147,7 +148,7 @@
 
                     <div class = "col-md-6 col-lg-4 col-xl-3 p-2 best">
                         <div class = "collection-img position-relative">
-                            <img src = "src/assets/images/c_shirt-girl.png" class = "w-100">
+                            <img src = "../assets/images/c_shirt-girl.png" class = "w-100">
                             <span class = "position-absolute bg-primary text-white d-flex align-items-center justify-content-center">sale</span>
                         </div>
                         <div class = "text-center">
@@ -165,7 +166,7 @@
 
                     <div class = "col-md-6 col-lg-4 col-xl-3 p-2 feat">
                         <div class = "collection-img position-relative">
-                            <img src = "src/assets/images/c_t-shirt_men.png" class = "w-100">
+                            <img src = "../assets/images/c_t-shirt_men.png" class = "w-100">
                             <span class = "position-absolute bg-primary text-white d-flex align-items-center justify-content-center">sale</span>
                         </div>
                         <div class = "text-center">
@@ -183,7 +184,7 @@
 
                     <div class = "col-md-6 col-lg-4 col-xl-3 p-2 new">
                         <div class = "collection-img position-relative">
-                            <img src = "src/assets/images/c_tunic-shirt_girl.png" class = "w-100">
+                            <img src = "../assets/images/c_tunic-shirt_girl.png" class = "w-100">
                             <span class = "position-absolute bg-primary text-white d-flex align-items-center justify-content-center">sale</span>
                         </div>
                         <div class = "text-center">
@@ -201,7 +202,7 @@
 
                     <div class = "col-md-6 col-lg-4 col-xl-3 p-2 best">
                         <div class = "collection-img position-relative">
-                            <img src = "src/assets/images/c_undershirt.png" class = "w-100">
+                            <img src = "../assets/images/c_undershirt.png" class = "w-100">
                             <span class = "position-absolute bg-primary text-white d-flex align-items-center justify-content-center">sale</span>
                         </div>
                         <div class = "text-center">
@@ -219,7 +220,7 @@
 
                     <div class = "col-md-6 col-lg-4 col-xl-3 p-2 feat">
                         <div class = "collection-img position-relative">
-                            <img src = "src/assets/images/c_western-shirt.png" class = "w-100">
+                            <img src = "../assets/images/c_western-shirt.png" class = "w-100">
                             <span class = "position-absolute bg-primary text-white d-flex align-items-center justify-content-center">sale</span>
                         </div>
                         <div class = "text-center">
@@ -250,7 +251,7 @@
             <div class = "special-list row g-0">
                 <div class = "col-md-6 col-lg-4 col-xl-3 p-2">
                     <div class = "special-img position-relative overflow-hidden">
-                        <img src = "src/assets/images/special_product_1.jpg" class = "w-100">
+                        <img src = "../assets/images/special_product_1.jpg" class = "w-100">
                         <span class = "position-absolute d-flex align-items-center justify-content-center text-primary fs-4">
                             <i class = "fas fa-heart"></i>
                         </span>
@@ -264,7 +265,7 @@
 
                 <div class = "col-md-6 col-lg-4 col-xl-3 p-2">
                     <div class = "special-img position-relative overflow-hidden">
-                        <img src = "src/assets/images/special_product_2.jpg" class = "w-100">
+                        <img src = "../assets/images/special_product_2.jpg" class = "w-100">
                         <span class = "position-absolute d-flex align-items-center justify-content-center text-primary fs-4">
                             <i class = "fas fa-heart"></i>
                         </span>
@@ -278,7 +279,7 @@
 
                 <div class = "col-md-6 col-lg-4 col-xl-3 p-2">
                     <div class = "special-img position-relative overflow-hidden">
-                        <img src = "src/assets/images/special_product_3.jpg" class = "w-100">
+                        <img src = "../assets/images/special_product_3.jpg" class = "w-100">
                         <span class = "position-absolute d-flex align-items-center justify-content-center text-primary fs-4">
                             <i class = "fas fa-heart"></i>
                         </span>
@@ -292,7 +293,7 @@
 
                 <div class = "col-md-6 col-lg-4 col-xl-3 p-2">
                     <div class = "special-img position-relative overflow-hidden">
-                        <img src = "src/assets/images/special_product_4.jpg" class = "w-100">
+                        <img src = "../assets/images/special_product_4.jpg" class = "w-100">
                         <span class = "position-absolute d-flex align-items-center justify-content-center text-primary fs-4">
                             <i class = "fas fa-heart"></i>
                         </span>
@@ -331,7 +332,7 @@
 
             <div class = "row g-3">
                 <div class = "card border-0 col-md-6 col-lg-4 bg-transparent my-3">
-                    <img src = "src/assets/images/blog_1.jpg" alt = "">
+                    <img src = "../assets/images/blog_1.jpg" alt = "">
                     <div class = "card-body px-0">
                         <h4 class = "card-title">Lorem ipsum, dolor sit amet consectetur adipisicing</h4>
                         <p class = "card-text mt-3 text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet aspernatur repudiandae nostrum dolorem molestias odio. Sit fugit adipisci omnis quia itaque ratione iusto sapiente reiciendis, numquam officiis aliquid ipsam fuga.</p>
@@ -345,7 +346,7 @@
                 </div>
 
                 <div class = "card border-0 col-md-6 col-lg-4 bg-transparent my-3">
-                    <img src = "src/assets/images/blog_2.jpg" alt = "">
+                    <img src = "../assets/images/blog_2.jpg" alt = "">
                     <div class = "card-body px-0">
                         <h4 class = "card-title">Lorem ipsum, dolor sit amet consectetur adipisicing</h4>
                         <p class = "card-text mt-3 text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet aspernatur repudiandae nostrum dolorem molestias odio. Sit fugit adipisci omnis quia itaque ratione iusto sapiente reiciendis, numquam officiis aliquid ipsam fuga.</p>
@@ -359,7 +360,7 @@
                 </div>
 
                 <div class = "card border-0 col-md-6 col-lg-4 bg-transparent my-3">
-                    <img src = "src/assets/images/blog_3.jpg" alt = "">
+                    <img src = "../assets/images/blog_3.jpg" alt = "">
                     <div class = "card-body px-0">
                         <h4 class = "card-title">Lorem ipsum, dolor sit amet consectetur adipisicing</h4>
                         <p class = "card-text mt-3 text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet aspernatur repudiandae nostrum dolorem molestias odio. Sit fugit adipisci omnis quia itaque ratione iusto sapiente reiciendis, numquam officiis aliquid ipsam fuga.</p>
@@ -388,7 +389,7 @@
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem fuga blanditiis, modi exercitationem quae quam eveniet! Minus labore voluptatibus corporis recusandae accusantium velit, nemo, nobis, nulla ullam pariatur totam quos.</p>
                 </div>
                 <div class = "col-lg-6 order-lg-0">
-                    <img src = "src/assets/images/about_us.jpg" alt = "" class = "img-fluid">
+                    <img src = "../assets/images/about_us.jpg" alt = "" class = "img-fluid">
                 </div>
             </div>
         </div>
@@ -406,21 +407,21 @@
                 <div class = "col-md-6 col-lg-4 row g-3">
                     <h3 class = "fs-5">Top Rated</h3>
                     <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "src/assets/images/top_rated_1.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                        <img src = "../assets/images/top_rated_1.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
                             <p class = "mb-0">Blue Shirt</p>
                             <span>$ 20.00</span>
                         </div>
                     </div>
                     <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "src/assets/images/top_rated_2.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                        <img src = "../assets/images/top_rated_2.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
                             <p class = "mb-0">Blue Shirt</p>
                             <span>$ 20.00</span>
                         </div>
                     </div>
                     <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "src/assets/images/top_rated_3.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                        <img src = "../assets/images/top_rated_3.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
                             <p class = "mb-0">Blue Shirt</p>
                             <span>$ 20.00</span>
@@ -431,21 +432,21 @@
                 <div class = "col-md-6 col-lg-4 row g-3">
                     <h3 class = "fs-5">Best Selling</h3>
                     <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "src/assets/images/best_selling_1.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                        <img src = "../assets/images/best_selling_1.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
                             <p class = "mb-0">Blue Shirt</p>
                             <span>$ 20.00</span>
                         </div>
                     </div>
                     <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "src/assets/images/best_selling_2.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                        <img src = "../assets/images/best_selling_2.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
                             <p class = "mb-0">Blue Shirt</p>
                             <span>$ 20.00</span>
                         </div>
                     </div>
                     <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "src/assets/images/best_selling_3.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                        <img src = "../assets/images/best_selling_3.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
                             <p class = "mb-0">Blue Shirt</p>
                             <span>$ 20.00</span>
@@ -456,21 +457,21 @@
                 <div class = "col-md-6 col-lg-4 row g-3">
                     <h3 class = "fs-5">On Sale</h3>
                     <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "src/assets/images/on_sale_1.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                        <img src = "../assets/images/on_sale_1.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
                             <p class = "mb-0">Blue Shirt</p>
                             <span>$ 20.00</span>
                         </div>
                     </div>
                     <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "src/assets/images/on_sale_2.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                        <img src = "../assets/images/on_sale_2.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
                             <p class = "mb-0">Blue Shirt</p>
                             <span>$ 20.00</span>
                         </div>
                     </div>
                     <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "src/assets/images/on_sale_3.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                        <img src = "../assets/images/on_sale_3.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
                             <p class = "mb-0">Blue Shirt</p>
                             <span>$ 20.00</span>
